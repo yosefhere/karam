@@ -1,0 +1,6 @@
+owner=510087122095570965
+prefix=K
+game=Fuk,You
+stayinchannel=true
+songinstatus=false
+token=NTYwMTQxNjA3OTE2MTQyNjE5.D3voFQ.bQR_NmamLUixn3xex9-G6OiZIW4
